@@ -7,4 +7,4 @@ This project front is based on simple HTML, CSS and Angular Js ad Backend is Jav
 
 In order to run the application use port 8081.
 
-Adding this line to test the deployment process end to end.
+Adding this line to validate the deployment process end to end.
